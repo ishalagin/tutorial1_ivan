@@ -1,0 +1,27 @@
+<DOCTYPE! html>
+<html>
+
+    <head>
+        <title>Tutorial</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+    
+    <body>
+        <div id="background"></div>
+        <div id="center">
+            <div id="ctop"></div>
+                <div id="ctopleft"></div>
+                    <img id="bigImg" src="img/item1.png />
+                </div>
+                <div id="ctopright"><.div>
+                    <h2 id="ctoptitle">Paragraph</h2>
+                    <p id="ctoppara">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel erat elit. Quisque viverra, magna eget lobortis placerat, dolor ex dapibus lectus, eget tincidunt nulla orci quis urna. Vestibulum non venenatis mauris. Nam quis elit fermentum, faucibus mauris et, euismod mauris. Integer consequat a nisl vitae eleifend. Donec rutrum a turpis nec euismod. Fusce magna eros, condimentum id consectetur id, facilisis quis tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tellus felis, tempus consequat tristique at, maximus vel mauris. Nam orci ante, sagittis et egestas quis, ultricies vitae urna. Etiam lobortis, lectus nec imperdiet placerat, tortor mauris imperdiet ante, quis viverra massa ante sit amet dui. Phasellus ut tristique massa. Sed fermentum consectetur semper. Pellentesque at est arcu. Cras sit amet dapibus nisi. Fusce gravida lobortis nibh, et congue libero dictum non.
+            </div>
+            <div id="cbot">
+                <img class="thumbs" src="img/item1.jpg/>
+                <img class="thumbs" src="img/item2,jpg/>
+                <img class="thumbs" src+"img/item3.jpg/>
+        </div>
+    </body>
+</html>
+            
